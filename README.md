@@ -9,4 +9,4 @@ mobilesohbet/mobilesohbet is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-kendinize özel sohbet odaları ile iletişim kurmak için ya da arkadaş edinmek için sohbet.net  sitesini kullanabilirsiniz. chat ve mobil sohbet için üye olduktan sonra hemen sohbet odalarına katılabileceğiniz bu siteye mutlaka göz atmalısınız.
+kendinize özel sohbet odaları ile iletişim kurmak için ya da arkadaş edinmek için <a href="https://www.sohbet.net">sohbet.net</a>  sitesini kullanabilirsiniz. chat ve mobil sohbet için üye olduktan sonra hemen sohbet odalarına katılabileceğiniz bu siteye mutlaka göz atmalısınız.
